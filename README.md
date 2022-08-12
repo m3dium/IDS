@@ -27,3 +27,8 @@ Host IDS
 The host-based IDS tìm kiếm các dấu hiệu xâm nhập vào hệ thống máy chủ cục bộ. Những điều này thường sử dụng cơ chế kiểm tra và ghi nhật ký của hệ thống máy chủ lưu trữ như một nguồn thông tin để phân tích.
 
 Chúng tìm kiếm hoạt động bất thường được giới hạn trong máy chủ cục bộ như đăng nhập, truy cập tệp không đúng cách, báo cáo đặc quyền chưa được phê duyệt hoặc các thay đổi về đặc quyền hệ thống. Kiến trúc IDS này thường sử dụng các công cụ dựa trên quy tắc để phân tích hoạt động. Do đó, các nỗ lực đăng nhập liên tiếp vào tài khoản gốc có thể được coi là một cuộc tấn công
+
+Các thành phần của IDS
+![image](https://user-images.githubusercontent.com/72652376/184272733-36b3d003-88f9-4525-a22d-64b03ab13e3d.png)
+
+
